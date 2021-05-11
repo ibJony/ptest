@@ -69,7 +69,7 @@
     <div class="header-area header-area--default bg-white">
 
         <!-- Header Bottom Wrap Start -->
-        <header class="header-area header_absolute header_height-120 header-sticky">
+        <header class="header-area header_absolute header_height-120 header-sticky section-space--pb_30">
             <div class="container-fluid container-fluid--cp-100">
                 <div class="row align-items-center">
 
@@ -153,7 +153,7 @@
 
         <!--====================  footer area ====================-->
         <div class="footer-area-wrapper">
-            <div class="footer-area section-space--ptb_30">
+            <div class="footer-area section-space--ptb_30 section-space--mt_30">
                 <div class="container text-center">
                     <div class="row footer-widget-wrapper">
                         <div class="col-md-4 col-sm-4 footer-widget">
