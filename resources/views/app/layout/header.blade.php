@@ -153,7 +153,7 @@
 
         <!--====================  footer area ====================-->
         <div class="footer-area-wrapper">
-            <div class="footer-area section-space--ptb_30 section-space--mt_30">
+            <div class="footer-area section-space--ptb_30">
                 <div class="container text-center">
                     <div class="row footer-widget-wrapper">
                         <div class="col-md-4 col-sm-4 footer-widget">
