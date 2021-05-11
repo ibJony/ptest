@@ -1,5 +1,5 @@
 
-@extends('app1.layout.header')
+@extends('app.layout.header')
 
 @section('content')
 
@@ -12,9 +12,7 @@
                 <div class="col-lg-12">
                     <div class="hero-content-wrap">
                         <div class="col-lg-5 hero-text-7 mt-lg-5">
-                            <h5 class="mb-20 text-color-primary">
-                            </h5>
-                            <h1><b>The easiest way <br> to buy furniture</b></h1>
+                            <h1 class="section-space--pt_30"><b>The easiest way <br> to buy furniture</b></h1>
 
                             <p class="mt-30">Order artisan-made furniture from brands you love <br /> and discover new
                                 ones, all in one place.</p>

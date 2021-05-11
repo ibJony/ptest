@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('app1.pages.index');
+    return view('app.pages.index');
 });
 
 Route::get('/shop', function () {
