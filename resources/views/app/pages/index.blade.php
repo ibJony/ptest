@@ -10,12 +10,12 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5 col-md-6 order-lg-1 order-1">
-                <div class="hero-text-7 mt-lg-5">
+                <div class="hero-text-7 mt-lg-5 section-space--mt_30">
                     <h1><b>The easiest way <br> to buy furniture</b></h1>
                     <p class="mt-30"> Order artisan-made furniture from brands you love <br /> and discover new
                         ones, all in one place.</p>
 
-                    <div class="button-box section-space--mt_30">
+                    <div class="button-box section-space--mt_40">
                         <a href="#" class="btn--text-icon btn btn-dark text-center">Explore Collection</a>
                         <br/><br/>
                     </div>
@@ -163,8 +163,8 @@
 
 <!-- About us section -->
 
-<!-- Product Area Start -->
-<div class="product-wrapper section-space--ptb_60">
+<!-- product view -->
+<div class="featuted-product-wrap section-space--pt_30 section-space--pb_60">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -174,12 +174,11 @@
             </div>
         </div>
 
-        <div class="tab-content">
+        <div class="tab-content mt-30">
             <div class="tab-pane fade show active" id="tab_list_01">
                 <!-- product-slider-active -->
-                <div class="row product-slider-active">
-
-                    <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                         <!-- Single Product Item Start -->
                         <div class="single-product-item text-center">
                             <div class="products-images">
@@ -199,7 +198,7 @@
                         <!-- Single Product Item End -->
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                         <!-- Single Product Item Start -->
                         <div class="single-product-item text-center">
                             <div class="products-images">
@@ -218,8 +217,7 @@
                         </div>
                         <!-- Single Product Item End -->
                     </div>
-
-                    <div class="col-lg-12">
+                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                         <!-- Single Product Item Start -->
                         <div class="single-product-item text-center">
                             <div class="products-images">
@@ -240,7 +238,7 @@
                         <!-- Single Product Item End -->
                     </div>
 
-                    <div class="col-lg-12">
+                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
                         <!-- Single Product Item Start -->
                         <div class="single-product-item text-center">
                             <div class="products-images">
@@ -261,14 +259,11 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
-        
-
     </div>
 </div>
-<!-- Product Area End -->
+<!-- End of product view -->
+
 
 <!-- Artisan call for action -->
 
